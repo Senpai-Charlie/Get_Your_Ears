@@ -1,0 +1,47 @@
+
+body{
+    background-color: #B9EDDD;
+}
+
+h1
+{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align:center;
+    color: #00060a;
+    margin-top: 150px;
+}
+
+form
+{
+    color: #080202;
+    font-weight: bolder;
+    font-size: 25px;
+    align-items: center;
+    margin-top: 0px;
+    margin-left: 30%;
+    padding: 10%;
+    align-items: center;
+}
+
+option{
+    color: rgb(194, 5, 33);
+    font-size: 16px;
+}
+
+input{
+    color: rgb(194, 5, 33);
+    size: 7;
+    font-size: 15px;
+    align-items: center;
+}
+
+select{
+    color: black;
+    size: 20px;
+}
+
+label{
+    font-size:18px;
+}
